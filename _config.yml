@@ -26,7 +26,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rohith and I'm a Graduate student at Northeastern University.
 
-  #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
 # projects_title: Projects

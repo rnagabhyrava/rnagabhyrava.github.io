@@ -22,7 +22,7 @@ linkedin_username: rnagabhyrava
 
 # About Section
 # about_title: About Me
-#about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rohith. I completed my graduation from Northeastern University, Boston, MA, getting a Master's degree in Data Analytics. Have a strong desire to learn and adapt to the latest technology that effectively contributes to the growth of the organization. My skillset includes
   * Programming Languages:  Python, R, Scala

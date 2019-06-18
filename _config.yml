@@ -6,16 +6,16 @@ repository: sproogen/resume-theme
 name: Rohith Nagabhyrava
 title: Ms in Data Analytics, Northeastern University
 email: nagabhyrava.r@husky.neu.edu
-website: www.github.com/rnagabhyrava
+website: rnagabhyrava.me
 
 # Social links
 #twitter_username: facespics
-github_username:  www.github.com/rnagabhyrava
+github_username: rnagabhyrava
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: chillwildlife
-linkedin_username: www.linkedin.com/in/rnagabhyrava/
+linkedin_username: rnagabhyrava
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -24,7 +24,7 @@ linkedin_username: www.linkedin.com/in/rnagabhyrava/
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rohith and I'm a Graduate student at Northeastern University.
+  Hi, my name's Rohith. I completed my graduation from Northeastern University, getting a Master's degree in Data Analytics, Boston MA. Have a strong desire to learn and adapt to the latest technology that effectively contributes to the growth of the organization.
 
 
 # Projects Section

@@ -1,6 +1,6 @@
 - layout: top-middle
   name: Using Data to bring customers Home (Wayfair competition)
-  link: github.com/rnagabhyrava/wayfair-competition
+  #link: github.com/rnagabhyrava/wayfair-competition
   github: rnagabhyrava/wayfair-competition
   quote: >
     A data model to predict customer behavior for Wayfair.
@@ -8,16 +8,14 @@
     * Developed a classification model using LightGBM and xgboost to predict whether a customer makes a purchase in the next 30 days and a regression model to predict the revenue from the customer.
     * Applied ensemble techniques such as weighted average and stacking models to reduce the base error rate by about 5%.
 
-
 - layout: top-middle
   name: Using Data to bring customers Home (Wayfair competition)
-  link: github.com/rnagabhyrava/wayfair-competition
+  #link: github.com/rnagabhyrava/wayfair-competition
   github: rnagabhyrava/wayfair-competition
   quote: >
     A data model to predict customer behavior for Wayfair.
   description: | # this will include new lines to allow paragraphs
     * Developed a classification model using LightGBM and xgboost to predict whether a customer makes a purchase in the next 30 days and a regression model to predict the revenue from the customer.
-
     * Applied ensemble techniques such as weighted average and stacking models to reduce the base error rate by about 5%.
 
 

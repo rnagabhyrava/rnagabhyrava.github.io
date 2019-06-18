@@ -25,11 +25,11 @@ linkedin_username: rnagabhyrava
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rohith. I completed my graduation from Northeastern University, Boston, MA, getting a Master's degree in Data Analytics. Have a strong desire to learn and adapt to the latest technology that effectively contributes to the growth of the organization. My skillset includes
-  * Programming Languages Python, R, Scala
-  * Software & Tools Tableau, Microsoft Excel, Power BI, Microsoft Visio
-  * Database Microsoft SQL Server, MySQL, MongoDB
-  * Python Libraries TensorFlow, Keras, FastAI, Pyspark, Scikit-Learn, Numpy, Pandas, OpenCV, Plotly, Dash
-  * Cloud Technologies (Intermediate) AWS (EC2, Sagemaker, S3, Elastic BeanStalk, ML APIs), GCP (Dataproc, Cloud SQL, BigQuery, Pub/Sub, ML APIs)
+  * Programming Languages:  Python, R, Scala
+  * Software & Tools:       Tableau, Microsoft Excel, Power BI, Microsoft Visio
+  * Database:               Microsoft SQL Server, MySQL, MongoDB
+  * Python Libraries:       TensorFlow, Keras, FastAI, Pyspark, Scikit-Learn, Numpy, Pandas, OpenCV, Plotly, Dash
+  * Cloud Technologies (Intermediate): AWS (EC2, Sagemaker, S3, Elastic BeanStalk, ML APIs), GCP (Dataproc, Cloud SQL, BigQuery, Pub/Sub, ML APIs)
 
 
 # Projects Section
@@ -43,12 +43,12 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+# more_content: | # this will include new lines to allow paragraphs
+#   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#    - Rock climbing
+#    - Gaming
+#    - Knitting
+#    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true

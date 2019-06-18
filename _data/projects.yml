@@ -40,8 +40,9 @@
 
 - layout: top-middle
   name: Citi Bike Data Analysis
-  #quote: >
-   # A model to predict back orders in retail.  (Python, Tableau)
+  link: tinyurl.com/rnagtab
+  quote: >
+   Data Analysis using Tableau  (Tableau)
   description: | # this will include new lines to allow paragraphs
     * Analyzed a large dataset of approximately 1 million records with information on availability of Citi Bikes within NYC.
     * Developed interactive dashboards and storyboards using calculated fields and  to analyze riding habit among different groups of people.

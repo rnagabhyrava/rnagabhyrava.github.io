@@ -1,21 +1,48 @@
 - layout: top-middle
-  name: Using Data to bring customers Home (Wayfair competition)
+  name: Using Data to bring customers Home
   #link: github.com/rnagabhyrava/wayfair-competition
   github: rnagabhyrava/wayfair-competition
   quote: >
-    A data model to predict customer behavior for Wayfair.
+    A data model to predict customer behavior for Wayfair. (Python, XGBoost, LightGBM)
   description: | # this will include new lines to allow paragraphs
     * Developed a classification model using LightGBM and xgboost to predict whether a customer makes a purchase in the next 30 days and a regression model to predict the revenue from the customer.
     * Applied ensemble techniques such as weighted average and stacking models to reduce the base error rate by about 5%.
 
 - layout: top-middle
-  name: Using Data to bring customers Home (Wayfair competition)
-  #link: github.com/rnagabhyrava/wayfair-competition
-  github: rnagabhyrava/wayfair-competition
+  name: Uncovering Sentiments using EDGAR Financial Datasets
+  github: rnagabhyrava/Edgar-sentiments
   quote: >
-    A data model to predict customer behavior for Wayfair.
+    A neural network model for sentiment analysis. (Python, Keras, Cloud APIs)
   description: | # this will include new lines to allow paragraphs
-    * Developed a classification model using LightGBM and xgboost to predict whether a customer makes a purchase in the next 30 days and a regression model to predict the revenue from the customer.
-    * Applied ensemble techniques such as weighted average and stacking models to reduce the base error rate by about 5%.
+    * Obtained the latest earnings call transcript for the U.S top 10 technology companies and assigned a sentiment for each paragraph.
+    * Trained an RNN, an MLP with GloVe embeddings, a bag of words model with an MLP, transfer learning and compared the performances.
+    * Using the Amazon, Google, Microsoft and Watson APIs obtained the Sentiment scores for the Dataset to build an ensemble model using AutoML(TPOT, AutoSKLearn, H2O.ai) that inputs the raw scores and improved the base accuracy by 10%.
 
+- layout: top-middle
+  name: Pothole segmentation
+  github: rnagabhyrava #Add repo link
+  quote: >
+    A Mask R-CNN Model for Detecting Potholes. (Python, Keras, AWS)
+  description: | # this will include new lines to allow paragraphs
+    * Created a data set on pothole by scraping and created masks (annotations) using VIA annotation tool .
+    * Used a Deep Neural Network architecture called MaskRCNN  with ResNet-50 and ResNet-100 as backbones to extract features and a fully convolutional Network to Segment the detected objects.
+    * Deployed the model as a flask application on AWS Elastic beanstalk.
 
+- layout: top-middle
+  name: Back order Prediction using Machine Learning.
+  github: rnagabhyrava/Backorder-Prediction #Add repo link
+  quote: >
+    A model to predict back orders in retail.  (Python, Tableau)
+  description: | # this will include new lines to allow paragraphs
+    * Studied over 1.5 million records of product and customer information, used Tableau to visualize the data.
+    * Investigated machine learning classiﬁers using Python in order to propose a predictive model for the imbalanced class problem using sampling techniques and ensemble learning.
+    * Employed speciﬁc metrics such as area under the Receiver Operator Characteristic and precision-recall curves.
+
+- layout: top-middle
+  name: Citi Bike Data Analysis
+  #quote: >
+   # A model to predict back orders in retail.  (Python, Tableau)
+  description: | # this will include new lines to allow paragraphs
+    * Analyzed a large dataset of approximately 1 million records with information on availability of Citi Bikes within NYC.
+    * Developed interactive dashboards and storyboards using calculated fields and  to analyze riding habit among different groups of people.
+    * Employed speciﬁc metrics such as area under the Receiver Operator Characteristic and precision-recall curves.
